@@ -1,0 +1,68 @@
+#account_form {
+    margin: auto;
+    width: 40%;
+}
+
+#account_form_2 {
+    margin: auto;
+    width: 600px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    padding: 20px;
+    border: 1px dashed #cbcbcb;
+}
+
+.command_details {
+    background-color: #3fc67d;
+    width: 100px;
+    height: 23px;
+    text-align: center;
+    padding-top: 7px;
+    border-radius: 5px;
+    float: right;
+}
+
+.command_details a {
+    color: white;
+}
+
+.command_details a:hover {
+    color: #258652;
+}
+
+.command_details a:visited {
+    color: white;
+}
+
+
+#table_account {
+    font-family: 'Lato', serif;
+    font-weight: 300;
+    width: 100%;
+}
+
+#table_account tr{
+    margin: auto;
+    text-align: left;
+}
+
+#table_account th{
+    color: #77d37a;
+}
+
+#table_account td {
+    font-size: 0.8em;
+    padding-top: 10px;
+    border-top : 1px dashed #cbcbcb;
+}
+#basket_prod_quantity {
+    font-weight: 400;
+}
+
+#basket_total {
+    color: #77d37a;
+    font-weight: bold;
+    text-align: right;
+    font-size: 1.2em;
+    padding-top: 10px;
+}

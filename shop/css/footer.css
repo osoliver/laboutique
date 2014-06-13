@@ -1,0 +1,51 @@
+#footer {
+    height: 200px;
+    width: 100%;
+    background-color: #dbdbdb;
+    border-top: 1px solid #CCC;
+    position: absolute;
+}
+
+#contacts {
+    background-color: #CCC;
+    height: 70%;
+    text-align: center;
+}
+
+#contacts p {
+    margin: 0;
+    padding-top: 50px;
+    padding-left: 200px;
+    font-family: 'Coustard', serif;
+    font-size: 1.3em;
+    color: #888;
+    float: left;
+    display: inline;
+}
+
+#contacts p a{
+    text-decoration: none;
+    color: #888;
+}
+
+#copyright {
+    height: 30%;
+    background-color: #838383;
+    color: #f2f2f2;
+    font-size: 0.8em;
+}
+
+#copyright p {
+    margin: 0;
+    padding-top: 30px;
+    padding-left: 50px;
+}
+.center {
+    margin: auto;
+    width: 1500px;
+}
+
+#contacts {
+    margin: auto;
+width: 100%;
+}

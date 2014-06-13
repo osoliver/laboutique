@@ -1,0 +1,94 @@
+#register_form {
+    margin: auto;
+    width: 40%;
+}
+
+#register_form_2, #data_form_2{
+    margin: auto;
+    width: 365px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    height: 500px;
+    padding: 20px;
+    border: 1px dashed #cbcbcb;
+}
+
+.register_error {
+    display: block;
+    color: red;
+    margin: auto;
+    width: 365px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px dashed #cbcbcb;
+}
+
+.register_ok {
+    display: block;
+    color: #77d37a;
+    margin: auto;
+    width: 365px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    padding: 10px;
+    border: 1px dashed #cbcbcb;
+}
+
+#login_form_2 {
+    margin: auto;
+    width: 365px;
+    background-color: rgba(255, 255, 255, 0.8);
+    margin-top: 50px;
+    height: 150px;
+    padding: 20px;
+    border: 1px dashed #cbcbcb;
+}
+
+#register_form h3, #data_form_2 h3 {
+    color: #77d37a;
+    font-size: 1.1em;
+    font-weight: 300;
+}
+
+#register_form label, #data_form_2 label {
+    color: #939393;
+}
+
+#register_form ul, #data_form_2 ul {
+    list-style: none;
+    padding: 0;
+}
+
+#register_form li, #data_form_2 li {
+    position: relative;
+    margin-bottom: 10px;
+    float: none;
+}
+
+#register_form input, #data_form_2 input {
+    position: absolute;
+    left: 240px;
+}
+
+.submit {
+    font-family: 'Lato', serif;
+    color: #FFF;
+    font-weight: 300;
+    border: 0px none;
+    background-color: #3fc67d;
+    width: 100px;
+    height: 25px;
+    text-align: center;
+    border-radius: 5px;
+    float: right;
+    font-size: 1em;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+
+#data_form_2 input
+{
+	background:none;
+	border:none;
+}

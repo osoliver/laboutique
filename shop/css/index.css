@@ -1,0 +1,33 @@
+BODY {
+    font-family: 'Lato', serif;
+    font-weight: 300;
+    background-color: #838383;
+    margin: 0;
+    padding: 0;
+}
+
+::-webkit-scrollbar { 
+    display: none; 
+}
+
+h2 {
+    font-family: 'Coustard', serif;
+    font-weight: 300;
+    color: #FFF;
+    padding-top: 40px;
+    width: 300px;
+	text-shadow: 2px 2px rgba(0, 0, 0, 0.3);
+}
+
+#middle {
+    padding-top: 50px;
+    background: url(../img/bg.png) repeat-x 50% 50% #DFE2E4;
+    height: 80%;
+    overflow: hidden;
+    overflow: scroll;
+}
+#content {
+    margin: auto;
+    height: 100%;
+    
+}

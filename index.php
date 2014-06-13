@@ -1,0 +1,9 @@
+<?php
+header('location:shop/index.php');
+exit;
+?>
+<HTML>
+    <HEAD></HEAD>
+    <BODY>
+</BODY>
+</HTML>
